@@ -2,7 +2,7 @@
 
 # About this project
 
-This project contains an ecosystem built around ProzillaOS, an web-based operating system made with React.js and TypeScript by Prozilla.
+This project contains an ecosystem built around ProzillaOS, a web-based operating system made with React.js and TypeScript by Prozilla.
 
 ## Links
 
